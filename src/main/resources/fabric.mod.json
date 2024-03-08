@@ -1,0 +1,36 @@
+{
+	"schemaVersion": 1,
+	"id": "monkey-banners",
+	"version": "${version}",
+	"name": "Monkey Banners",
+	"description": "This mod adds a new banner patterns!",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "ARR",
+	"icon": "assets/monkey-banners/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.beast.MonkeyBanners"
+		],
+		"fabric-datagen": [
+		]
+	},
+	"mixins": [
+		"monkey-banners.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.7",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

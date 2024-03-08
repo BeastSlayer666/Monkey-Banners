@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    //"monkey-banners:chi_fill",
+    "monkey-banners:chi",
+
+    //"monkey-banners:bongo_fill",
+    "monkey-banners:bongo",
+
+    //"monkey-banners:nut_fill",
+    "monkey-banners:nut",
+
+    //"monkey-banners:chiquis_fill",
+    "monkey-banners:chiquis",
+
+    //"monkey-banners:kiko_fill",
+    "monkey-banners:kiko",
+
+    "monkey-banners:circle_75",
+    "monkey-banners:circle_50",
+    "monkey-banners:circle_25",
+
+    "monkey-banners:banana_fill",
+    "monkey-banners:banana",
+
+    "monkey-banners:banana_right_fill",
+    "monkey-banners:banana_right"
+  ]
+}
